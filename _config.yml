@@ -20,11 +20,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "B0bTheSkull's Cybersecuirty Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "B0bTheSkull"
+description              : "Write-ups, exploit research, and security deep dives"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,10 +116,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "B0bTheSkull"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Cybersecurity Enthusiast | HTB | CTFs"
+  location         : "Somewhere happy"
   email            :
   links:
     - label: "Email"
